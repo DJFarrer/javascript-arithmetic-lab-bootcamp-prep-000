@@ -38,7 +38,5 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat(n)
-  n
-  return n
+  return parseFloat(n)
 }
